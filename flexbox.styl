@@ -1,0 +1,70 @@
+.row
+.column
+  display flex
+  flex-shrink 0
+
+  &.shrink
+    flex-shrink 1
+
+  for v in nowrap wrap wrap-reverse
+    &.{v}
+      flex-wrap v
+
+  for v in start end
+    &.justify-{v}
+      justify-content flex- + v
+
+    &.align-{v}
+      align-items flex- + v
+
+    &.align-content-{v}
+      align-content flex- + v
+
+  for v in center space-between space-around
+    &.justify-{v}
+      justify-content v
+
+    &.align-content-{v}
+      align-content v
+
+  for v in center baseline stretch
+    &.align-{v}
+      align-items v
+
+  &.align-content-stretch
+    align-content stretch
+
+  & > *
+    max-width 100%
+
+    for v in start end
+      &.align-self-{v}
+        align-self flex- + v
+
+    for v in auto center baseline stretch
+      &.align-self-{v}
+        align-self v
+
+for v in row column
+  .{v}
+    flex-direction v
+
+    &.reverse
+      flex-direction v + -reverse
+
+.column.stretch
+  height 100%
+
+.flex-none
+  flex none
+
+.flex
+  flex-grow 1
+
+for n in 1..20
+  .flex-{5*n}
+    flex-basis (5*n)%
+
+for n in 1..12
+  .flex-{n}c
+    flex-basis (n*100/12)%
