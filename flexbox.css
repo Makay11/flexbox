@@ -2,7 +2,6 @@
 .column {
   display: flex;
   flex-shrink: 0;
-  flex-wrap: wrap;
 }
 .row.shrink,
 .column.shrink {
