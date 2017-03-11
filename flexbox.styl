@@ -2,6 +2,7 @@
 .column
   display flex
   flex-shrink 0
+  flex-wrap wrap
 
   &.shrink
     flex-shrink 1
@@ -55,16 +56,39 @@ for v in row column
 .column.stretch
   height 100%
 
+  &.padded
+    height calc(100% - 28px)
+
+.padded
+  padding 14px
+
 .flex-none
   flex none
 
 .flex
   flex-grow 1
 
-for n in 1..20
-  .flex-{5*n}
-    flex-basis (5*n)%
+// for n in 1..20
+//   .flex-{5*n}
+//     flex-basis (5*n)%
+
+.hidden
+  display none
 
 for n in 1..12
-  .flex-{n}c
+  .flex-{n}
     flex-basis (n*100/12)%
+
+sizes = 1919 1279 959 599
+for size, i in lg md sm xs
+  @media (max-width: sizes[i]px)
+    .hidden-{size}
+      display none
+
+    for n in 1..12
+      .flex-{size}-{n}
+        flex-basis (n*100/12)%
+
+  @media (min-width: (sizes[i]+1)px)
+    .hidden-gt-{size}
+      display none
