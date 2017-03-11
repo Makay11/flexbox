@@ -123,6 +123,9 @@
 .column.reverse {
   flex-direction: column-reverse;
 }
+.row.stretch {
+  width: 100%;
+}
 .column.stretch {
   height: 100%;
 }
