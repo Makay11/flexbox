@@ -124,10 +124,10 @@
   flex-direction: column-reverse;
 }
 .row.stretch {
-  min-width: 100%;
+  width: 100%;
 }
 .column.stretch {
-  min-height: 100%;
+  height: 100%;
 }
 .column.stretch.padded {
   height: calc(100% - 28px);
