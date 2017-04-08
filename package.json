@@ -1,0 +1,17 @@
+{
+  "name": "@makay/flexbox",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Diogo Pais",
+    "email": "dpais11@gmail.com",
+    "url": "http://diogopais.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Makay11/flexbox"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
