@@ -1,19 +1,37 @@
-# flexbox
+# @makay/flexbox
 
-[![License](https://img.shields.io/npm/l/live-front.svg)](http://opensource.org/licenses/ISC)
+[![npm (scoped)](https://img.shields.io/npm/v/@makay/flexbox.svg?style=flat-square)](https://www.npmjs.com/package/@makay/flexbox)
+[![license](https://img.shields.io/github/license/Makay11/flexbox.svg?style=flat-square)](http://opensource.org/licenses/ISC)
 
-# ISC License
+TODO description
 
-Copyright (c) 2018, Diogo Pais
+# What is flexbox?
+> Flexbox provides tools to allow rapid creation of complex, flexible layouts, and features that historically proved difficult with CSS. [[Source](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)]
 
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
+If you're unfamiliar with flexbox be sure to take a look at the following resources (in no specific order):
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+- http://cssreference.io/flexbox/
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+# Installation
+
+## npm (recommended)
+
+Run `npm install @makay/flexbox` or `yarn add @makay/flexbox` to install the latest version.
+
+Include `@makay/flexbox/flexbox.css` or `@makay/flexbox/flexbox.min.css` in your bundle using your preferred bundler.
+
+## CDN
+
+Include  one of the following stylesheets in your `index.html`:
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1/flexbox.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1/flexbox.min.css
+
+# Usage
+
+TODO
+
+# Contribute!
+Found an issue or want to add a new feature? Feel free to open an issue or make a pull request!

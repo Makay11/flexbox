@@ -1,7 +1,7 @@
 {
   "name": "@makay/flexbox",
   "version": "0.1.0",
-  "description": "",
+  "description": "Tiny flexbox library",
   "author": {
     "name": "Diogo Pais",
     "email": "dpais11@gmail.com",
