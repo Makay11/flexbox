@@ -26,8 +26,8 @@ Include `@makay/flexbox/flexbox.css` or `@makay/flexbox/flexbox.min.css` in your
 ## CDN
 
 Include  one of the following stylesheets in your `index.html`:
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1/flexbox.css
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1/flexbox.min.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.0/flexbox.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.0/flexbox.min.css
 
 # Usage
 
