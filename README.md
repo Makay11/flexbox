@@ -36,8 +36,9 @@ Include `@makay/flexbox/flexbox.css` or `@makay/flexbox/flexbox.min.css` in your
 
 Include  one of the following stylesheets in your page:
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.0/flexbox.css
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.0/flexbox.min.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.1/flexbox.css
+
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.1/flexbox.min.css
 
 # Documentation
 
