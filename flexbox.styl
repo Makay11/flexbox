@@ -6,7 +6,7 @@
   &.shrink
     flex-shrink 1
 
-  for v in nowrap wrap wrap-reverse
+  for v in wrap wrap-reverse nowrap
     &.{v}
       flex-wrap v
 
@@ -66,7 +66,7 @@ for v in row column
 
 for n in 1..12
   .flex-{n}
-    flex-basis (n*100/12)%
+    flex-basis "calc(%s*100%/12)" % n
 
 sizes = 1919 1279 959 599
 for size, i in lg md sm xs
@@ -76,7 +76,7 @@ for size, i in lg md sm xs
 
     for n in 1..12
       .flex-{size}-{n}
-        flex-basis (n*100/12)%
+        flex-basis "calc(%s*100%/12)" % n
 
   @media (min-width: (sizes[i]+1)px)
     .hidden-gt-{size}
