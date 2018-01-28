@@ -132,13 +132,11 @@
 .row > *.align-self-auto,
 .column > *.align-self-auto {
   -ms-flex-item-align: auto;
-  -ms-grid-row-align: auto;
   align-self: auto;
 }
 .row > *.align-self-center,
 .column > *.align-self-center {
   -ms-flex-item-align: center;
-  -ms-grid-row-align: center;
   align-self: center;
 }
 .row > *.align-self-baseline,
@@ -149,7 +147,6 @@
 .row > *.align-self-stretch,
 .column > *.align-self-stretch {
   -ms-flex-item-align: stretch;
-  -ms-grid-row-align: stretch;
   align-self: stretch;
 }
 .row {
