@@ -30,15 +30,15 @@ If you're unfamiliar with flexbox be sure to take a look at the following resour
 
 Run `npm install @makay/flexbox` or `yarn add @makay/flexbox` to install the latest version.
 
-Include `@makay/flexbox/flexbox.css` or `@makay/flexbox/flexbox.min.css` in your bundle using your preferred bundler.
+Include `node_modules/@makay/flexbox/flexbox.css` or `node_modules/@makay/flexbox/flexbox.min.css` in your bundle using your preferred bundler.
 
 ## CDN
 
 Include  one of the following stylesheets in your page:
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.1/flexbox.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.2/flexbox.css
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.1/flexbox.min.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.2/flexbox.min.css
 
 # Documentation
 
