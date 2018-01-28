@@ -174,7 +174,7 @@
   flex-direction: column-reverse;
 }
 .padded {
-  padding: 14px;
+  padding: 16px;
 }
 .flex-none {
   -webkit-box-flex: 0;

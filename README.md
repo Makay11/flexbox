@@ -3,7 +3,7 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@makay/flexbox.svg?style=flat-square)](https://www.npmjs.com/package/@makay/flexbox)
 [![license](https://img.shields.io/github/license/Makay11/flexbox.svg?style=flat-square)](http://opensource.org/licenses/ISC)
 
-TODO description
+A tiny flexbox library (1.53KB gzipped) to help you build responsive layouts quickly and without writing any CSS.
 
 # What is flexbox?
 > Flexbox provides tools to allow rapid creation of complex, flexible layouts, and features that historically proved difficult with CSS. [[Source](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)]
