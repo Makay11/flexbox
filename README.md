@@ -3,7 +3,7 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@makay/flexbox.svg?style=flat-square)](https://www.npmjs.com/package/@makay/flexbox)
 [![license](https://img.shields.io/github/license/Makay11/flexbox.svg?style=flat-square)](http://opensource.org/licenses/ISC)
 
-Tiny flexbox library (1.53KB gzipped) to help you build responsive layouts quickly and without writing any CSS.
+Tiny flexbox library (1.70KB gzipped) to help you build responsive layouts quickly and without writing any CSS.
 
 Goals of this library:
 
