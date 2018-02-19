@@ -2,6 +2,7 @@
   "name": "@makay/flexbox",
   "version": "1.0.3",
   "description": "Tiny flexbox library.",
+  "main": "flexbox.min.css",
   "author": {
     "name": "Diogo Pais",
     "email": "dpais11@gmail.com",
