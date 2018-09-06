@@ -3,7 +3,7 @@
 [![npm (scoped)](https://img.shields.io/npm/v/@makay/flexbox.svg?style=flat-square)](https://www.npmjs.com/package/@makay/flexbox)
 [![license](https://img.shields.io/github/license/Makay11/flexbox.svg?style=flat-square)](http://opensource.org/licenses/ISC)
 
-Tiny flexbox library (1.70KB gzipped) to help you build responsive layouts quickly and without writing any CSS.
+Tiny flexbox library (1.65KB gzipped) to help you build responsive layouts quickly and without writing any CSS.
 
 Goals of this library:
 
@@ -36,9 +36,9 @@ Include `node_modules/@makay/flexbox/flexbox.css` or `node_modules/@makay/flexbo
 
 Include  one of the following stylesheets in your page:
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.4/flexbox.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@2.0.0/flexbox.css
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@1.0.4/flexbox.min.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@2.0.0/flexbox.min.css
 
 # Documentation
 
