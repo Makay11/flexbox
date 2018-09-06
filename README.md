@@ -99,8 +99,8 @@ flex-**X**|flex-basis: calc(**X***100%/12);
 Class|max-width|CSS properties
 ---|---|---
 flex-lg-**X**|1919px|flex-basis: calc(**X***100%/12);
-flex-md-**X**|1279px|flex-basis: calc(**X***100%/12);
-flex-sm-**X**|959px|flex-basis: calc(**X***100%/12);
+flex-md-**X**|1439px|flex-basis: calc(**X***100%/12);
+flex-sm-**X**|1023px|flex-basis: calc(**X***100%/12);
 flex-xs-**X**|599px|flex-basis: calc(**X***100%/12);
 
 ***X** can range from 1 to 12, inclusive.*
