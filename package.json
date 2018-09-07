@@ -1,6 +1,6 @@
 {
   "name": "@makay/flexbox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Tiny flexbox library.",
   "main": "flexbox.min.css",
   "author": {
