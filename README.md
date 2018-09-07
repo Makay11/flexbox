@@ -36,9 +36,9 @@ Include `node_modules/@makay/flexbox/flexbox.css` or `node_modules/@makay/flexbo
 
 Include  one of the following stylesheets in your page:
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@2.0.0/flexbox.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@2.0.1/flexbox.css
 
-https://cdn.jsdelivr.net/npm/@makay/flexbox@2.0.0/flexbox.min.css
+https://cdn.jsdelivr.net/npm/@makay/flexbox@2.0.1/flexbox.min.css
 
 # Documentation
 
@@ -117,15 +117,15 @@ hidden|display: none;
 Class|max-width|CSS properties
 ---|---|---
 hidden-lg|1919px|display: none;
-hidden-md|1279px|display: none;
-hidden-sm|959px|display: none;
+hidden-md|1439px|display: none;
+hidden-sm|1023px|display: none;
 hidden-xs|599px|display: none;
 
 Class|min-width|CSS properties
 ---|---|---
 hidden-gt-lg|1920px|display: none;
-hidden-gt-md|1280px|display: none;
-hidden-gt-sm|960px|display: none;
+hidden-gt-md|1440px|display: none;
+hidden-gt-sm|1024px|display: none;
 hidden-gt-xs|600px|display: none;
 
 # Contribute!
