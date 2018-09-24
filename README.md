@@ -98,10 +98,10 @@ flex-**X**|flex-basis: calc(**X***100%/12);
 
 Class|max-width|CSS properties
 ---|---|---
-flex-lg-**X**|1919px|flex-basis: calc(**X***100%/12);
-flex-md-**X**|1439px|flex-basis: calc(**X***100%/12);
-flex-sm-**X**|1023px|flex-basis: calc(**X***100%/12);
-flex-xs-**X**|599px|flex-basis: calc(**X***100%/12);
+flex-lg-**X**|1199px|flex-basis: calc(**X***100%/12);
+flex-md-**X**|991px|flex-basis: calc(**X***100%/12);
+flex-sm-**X**|767px|flex-basis: calc(**X***100%/12);
+flex-xs-**X**|575px|flex-basis: calc(**X***100%/12);
 
 ***X** can range from 1 to 12, inclusive.*
 
@@ -116,17 +116,17 @@ hidden|display: none;
 
 Class|max-width|CSS properties
 ---|---|---
-hidden-lg|1919px|display: none;
-hidden-md|1439px|display: none;
-hidden-sm|1023px|display: none;
-hidden-xs|599px|display: none;
+hidden-lg|1199px|display: none;
+hidden-md|991px|display: none;
+hidden-sm|767px|display: none;
+hidden-xs|575px|display: none;
 
 Class|min-width|CSS properties
 ---|---|---
-hidden-gt-lg|1920px|display: none;
-hidden-gt-md|1440px|display: none;
-hidden-gt-sm|1024px|display: none;
-hidden-gt-xs|600px|display: none;
+hidden-gt-lg|1200px|display: none;
+hidden-gt-md|992px|display: none;
+hidden-gt-sm|768px|display: none;
+hidden-gt-xs|576px|display: none;
 
 # Contribute!
 Found an issue or want to add a new feature? Feel free to open an issue or make a pull request!
